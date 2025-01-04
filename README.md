@@ -1,6 +1,9 @@
 # Netflix_Analysis_Quicksight
 This is a documentation of the dashboard that I have prepared with the help of Quicksight a Business Intelligence tool provided by AWS
 
+![image](https://github.com/user-attachments/assets/fef72f2a-297e-4f97-a2a2-8b4ea738c91b)
+
+
 # Steps for creating a dashboard using AWS Quicksight
   1. Create an AWS Account, If you already have an account, log into the account. (**Remember not to use the root account, Always go with the least privileges)
   2. We will upload the netlfix_title.csv and manifest.json to the S3 Bucket. (**Provide a unique name to the S3 Bucket as AWS searches the name globally)
