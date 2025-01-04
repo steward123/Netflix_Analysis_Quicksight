@@ -11,3 +11,6 @@ This is a documentation of the dashboard that I have prepared with the help of Q
     (II) Click on New Analysis --> S3 Bucket --> Write the dataset name and add the URI of the mainfest.json we uploaded in the s3 bucket or the manifest.json.
   5. After the dataset has been added, you have been provided with the dashboard creation window, try playing with the data and create the charts and graphs as required.
 
+![image](https://github.com/user-attachments/assets/03a37dc0-617f-4ac3-a9de-25484587eb6d)
+
+
