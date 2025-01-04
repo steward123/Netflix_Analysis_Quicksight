@@ -8,5 +8,6 @@ This is a documentation of the dashboard that I have prepared with the help of Q
   3. Now we will create an account with AWS Quicksight.
   4.
      (I) Click on New Analysis --> Dataset --> Upload the .csv file (** This is one of the methods)\
-    (II) Click on New Analysis --> S3 Bucket --> Write the dataset name and add the URI of the mainfest.json that we uploaded in the s3 bucket or the manifest.json.
-  5. 
+    (II) Click on New Analysis --> S3 Bucket --> Write the dataset name and add the URI of the mainfest.json we uploaded in the s3 bucket or the manifest.json.
+  5. After the dataset has been added, you have been provided with the dashboard creation window, try playing with the data and create the charts and graphs as required.
+
